@@ -10,7 +10,7 @@ profile:
   address: >
     <p>18th.leolee@gmail.com</p>
     <p>Google Scholar</p>
-    <p>Github</p>
+    <a href='https://github.com/leolee99' target="_blank">Github</a>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
