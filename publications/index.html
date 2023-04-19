@@ -135,37 +135,40 @@
           <article>
             <!-- _pages/publications.md -->
 <div class="publications">
-  <h2 class="year">1967</h2>
-  <ol class="bibliography"></ol>
-
-  <h2 class="year">1956</h2>
-  <ol class="bibliography"></ol>
-
-  <h2 class="year">1950</h2>
-  <ol class="bibliography"></ol>
-
-  <h2 class="year">1935</h2>
+  <h2 class="year">2022</h2>
   <ol class="bibliography"><li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://journals.aps.org/" rel="external nofollow noopener" target="_blank">PhysRev</a></abbr></div>
+        <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
-        <div id="PhysRev.47.777" class="col-sm-8">
+        <div id="DAA" class="col-sm-8">
         <!-- Title -->
-        <div class="title">Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?</div>
+        <div class="title">A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval</div>
         <!-- Author -->
         <div class="author">
         
 
-        A. Einstein, <a href="https://en.wikipedia.org/wiki/Boris_Podolsky" rel="external nofollow noopener" target="_blank">B. Podolsky</a>, and <a href="https://en.wikipedia.org/wiki/Nathan_Rosen" rel="external nofollow noopener" target="_blank">N. Rosen</a>
+        Hao Li, Jingkuan Song, Lianli Gao, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'Pengpeng Zeng, Haonan Zhang, Gongfu Li' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
         
         
         <div class="periodical">
-          <em>Phys. Rev.</em>, May 1935
+          <em>In NeurIPS</em>, 2022
         </div>
         <div class="periodical">
           
@@ -174,25 +177,36 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
-            <a href="/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/4e786a87e7ae249de2b1aeaf5d8fde82-Abstract-Conference.html" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Supplemental-Conference.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Supp</a>
+            <a href="https://github.com/VL-Group/2022-NeurIPS-DAA" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
           </div>
           
           <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1103/PhysRev.47.777"></span>
-              <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
           </div>
 
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
-            <p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+            <p>Cross-modal retrieval aims to build correspondence between multiple modalities by learning a common representation space. Typically, an image can match multiple texts semantically and vice versa, which significantly increases the difficulty of this task. To address this problem, probabilistic embedding is proposed to quantify these many-to-many relationships. However, existing datasets (e.g., MS-COCO) and metrics (e.g., Recall@K) cannot fully represent these diversity correspondences due to non-exhaustive annotations. Based on this observation, we utilize semantic correlation computed by CIDEr to find the potential correspondences. Then we present an effective metric, named Average Semantic Precision (ASP), which can measure the ranking precision of semantic correlation for retrieval sets. Additionally, we introduce a novel and concise objective, coined Differentiable ASP Approximation (DAA). Concretely, DAA can optimize ASP directly by making the ranking function of ASP differentiable through a sigmoid function. To verify the effectiveness of our approach, extensive experiments are conducted on MS-COCO, CUB Captions, and Flickr30K, which are commonly used in cross-modal retrieval. The results show that our approach obtains superior performance over the state-of-the-art approaches on all metrics.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">DAA</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Li, Hao and Song, Jingkuan and Gao, Lianli and Zeng, Pengpeng and Zhang, Haonan and Li, Gongfu}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{NeurIPS}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{35}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{11934--11946}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
           </div>
         </div>
       </div>
 </li></ol>
-
-  <h2 class="year">1905</h2>
-  <ol class="bibliography"></ol>
 
 
 </div>
