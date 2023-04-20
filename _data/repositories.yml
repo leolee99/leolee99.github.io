@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - leolee99
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - VL-Group/2022-NeurIPS-DAA
+  - leolee99/Online-CNCLIP
