@@ -22,5 +22,5 @@ I'm a master student in computer science at University of Electronic Science and
 
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool competitions of [RoboMsater](https://www.robomaster.com/en-US). 
 
-Currently, I'm looking for a position as a Research Assistant and a PHD in 2024 Fall. If you are interested in my CV, feel free to email me.
+Currently, I'm looking for a position as a <b>Research Assistant</b> and a <b>Ph.D.</b> in 2024 Fall. If you are interested in my CV, feel free to email me.
 
