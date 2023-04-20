@@ -10,7 +10,7 @@ profile:
   address: >
   <style type="text/css">
   .mycss{
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: flex-start;
   }
