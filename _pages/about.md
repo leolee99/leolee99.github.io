@@ -36,7 +36,7 @@ profile:
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url("assets/img/scholar_20x20.png");
+        background-image: url("assets/img/googlescholar_20x20.png");
         margin-right: 5px;
         vertical-align: middle;
       }
