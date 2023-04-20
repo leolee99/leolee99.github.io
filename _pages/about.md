@@ -14,15 +14,12 @@ profile:
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url("assets/img/email_16x16.png");
+        background-image: url("assets/img/email.png");
         margin-right: 5px;
       }
     </style>
-    <p>这是一行文本，<span class="icon">图标</span>在这里。</p>
-    <div class="mycss"><img src="assets/img/email_16x16.png" height="16px" width="16px"/><p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p></div>
-    <div class="mycss"><img src="assets/img/email_16x16.png" height="16px" width="16px"/><p><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a><p/></div>
-    <div class="mycss"><img src="assets/img/email_16x16.png" height="16px" width="16px"/><p><a href='https://github.com/leolee99' target="_blank">Github</a><p/></div>
-
+    <p><span class="icon"></span><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p>
+    
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
