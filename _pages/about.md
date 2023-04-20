@@ -8,14 +8,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    .icon::before {
-      content: "";
-      display: inline-block;
-      width: 20px;
-      height: 20px;
-      background-image: url("assets/img/email_16x16.png");
-      margin-right: 5px;
-    }
+    <style>
+      .icon::before {
+        content: "";
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        background-image: url("assets/img/email_16x16.png");
+        margin-right: 5px;
+      }
+    </style>
     <p>这是一行文本，<span class="icon">图标</span>在这里。</p>
     <div class="mycss"><img src="assets/img/email_16x16.png" height="16px" width="16px"/><p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p></div>
     <div class="mycss"><img src="assets/img/email_16x16.png" height="16px" width="16px"/><p><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a><p/></div>
