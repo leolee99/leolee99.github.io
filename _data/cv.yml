@@ -11,13 +11,13 @@
   contents:
     - title: Master
       institution: University of Electronic Science and Technology of China, Chengdu, China
-      year: 2021 - 2024 (Expected)
+      year: 2021-2024 (Expected)
       description:
         - Major: Computer Science.
         - Co-advised by Prof. Jingkuan Song and Prof. Lianli Gao.
     - title: B.S。
       institution: Northeast Forest Univerisity, Harbin, China
-      year: 2017 - 2021
+      year: 2017-2021
       description:
         - Major: Computer Science.
 
@@ -66,8 +66,8 @@
       description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
       
      - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">YOLOv4_SiamRPN</a>
-      year: 2021
-      description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
+       year: 2021
+       description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
 
 # - title: Honors and Awards
 #   type: time_table
