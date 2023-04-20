@@ -18,7 +18,7 @@ profile:
         margin-right: 5px;
       }
     </style>
-    <p><span class="icon">hi</span></p>
+    <p><span class="icon">hi</span>hi</p>
     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
