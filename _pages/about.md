@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <div class="mycss"><img src="assets/img/email.png" height="16" width="16"/><p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p></div>
-    <div class="mycss"><img src="assets/img/github.png" height="16" width="16"/><p><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a><p/></div>
-    <div class="mycss"><img src="assets/img/googlescholar.png" height="16" width="16"/><p><a href='https://github.com/leolee99' target="_blank">Github</a><p/></div>
+    <div class="mycss"><img src="assets/img/email.png" height="16px" width="16px"/><p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p></div>
+    <div class="mycss"><img src="assets/img/github.png" height="16px" width="16px"/><p><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a><p/></div>
+    <div class="mycss"><img src="assets/img/googlescholar.png" height="16px" width="16px"/><p><a href='https://github.com/leolee99' target="_blank">Github</a><p/></div>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
