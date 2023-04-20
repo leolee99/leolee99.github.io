@@ -93,8 +93,9 @@
     - title: Multimodal, Cross-modal Retrieval.
       items: 
         - Diversity.
-        - Noise Learning .
+        - Noisy Learning.
         - Uncertainty.
+        - High Dimension Theory.
 
 - title: Other Interests
   type: list
