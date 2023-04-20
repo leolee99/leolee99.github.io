@@ -57,9 +57,17 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/VL-Group/2022-NeurIPS-DAA">DAA</a>
+      year: 2022
+      description: A project of pytorch implementation for NeurIPS 2022 paper of “A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval”.
+      
+    - title: <a href="https://github.com/leolee99/Online-CNCLIP">DAA</a>
+      year: 2022
+      description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
+      
+     - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">DAA</a>
+      year: 2021
+      description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
 
 - title: Honors and Awards
   type: time_table
