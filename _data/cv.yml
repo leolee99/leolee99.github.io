@@ -65,9 +65,9 @@
       year: 2022
       description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
       
-     - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">YOLOv4_SiamRPN</a>
-       year: 2021
-       description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
+    - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">YOLOv4_SiamRPN</a>
+      year: 2021
+      description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
 
 # - title: Honors and Awards
 #   type: time_table
