@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p>
+    <div class="mycss"><img src="assets/img/github.png"><p><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</p></div>
     <p><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a><p/>
     <p><a href='https://github.com/leolee99' target="_blank">Github</a><p/>
 
