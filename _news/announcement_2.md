@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Win first prize in **"National Artificial Intelligence Innovation and Application Competition"**.
+Win first prize in [**"National Artificial Intelligence Innovation and Application Competition"**](http://www.aiinnovation.com.cn/#/).
