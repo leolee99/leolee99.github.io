@@ -61,11 +61,11 @@
       year: 2022
       description: A project of pytorch implementation for NeurIPS 2022 paper of “A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval”.
       
-    - title: <a href="https://github.com/leolee99/Online-CNCLIP">DAA</a>
+    - title: <a href="https://github.com/leolee99/Online-CNCLIP">Online-CNCLIP</a>
       year: 2022
       description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
       
-     - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">DAA</a>
+     - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">YOLOv4_SiamRPN</a>
       year: 2021
       description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
 
