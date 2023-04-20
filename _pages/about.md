@@ -3,10 +3,6 @@ layout: about
 title: about
 permalink: /
 
-.mycss{
-      display: flex;
-}
-
 profile:
   align: right
   image: prof_pic.jpg
