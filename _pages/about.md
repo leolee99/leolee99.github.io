@@ -18,7 +18,7 @@ profile:
         margin-right: 5px;
       }
     </style>
-    <p><span class="icon"><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</span></p>
+    <p><span class="icon">hi</span></p>
     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
