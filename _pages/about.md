@@ -15,7 +15,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I'm a master student in computer science at University of Electronic Science and Technology of China [**(UESTC)**](https://www.uestc.edu.cn/). I am a member of Center for Future Media [**(CFM)**](https://cfm.uestc.edu.cn/index) and co-advised by Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/) and Prof. [Lianli Gao](https://lianligao.github.io/).
