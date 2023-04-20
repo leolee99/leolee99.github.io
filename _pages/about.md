@@ -42,8 +42,8 @@ profile:
       }
     </style>
     <p><span class="email"></span><a href="mailto:18th.leolee@gmail.com">18th.leolee@gmail.com</a></p>
-    <p><span class="github"></span><a href='https://github.com/leolee99' target="_blank">Github</a></p>
-    <p><span class="scholar"></span><a href='https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN' target="_blank">Google Scholar</a></p>
+    <p><span class="github"></span><a href="https://github.com/leolee99" target="_blank">Github</a></p>
+    <p><span class="scholar"></span><a href="https://scholar.google.com/citations?user=7sdgzaYAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></p>
     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
