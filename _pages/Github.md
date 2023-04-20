@@ -2,7 +2,7 @@
 layout: page
 permalink: /Github/
 title: Github
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: The stats of my <a href='https://github.com/leolee99' target="_blank">Github</a>.
 nav: true
 nav_order: 3
 ---
