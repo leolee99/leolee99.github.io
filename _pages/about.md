@@ -20,5 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a master student in computer science at University of Electronic Science and Technology of China [**(UESTC)**](https://www.uestc.edu.cn/). I am a member of Center for Future Media [**(CFM)**](https://cfm.uestc.edu.cn/index) and co-advised by Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/) and Prof. [Lianli Gao](https://lianligao.github.io/).
 
-I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team 'Ares'.
+I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool competitions of [RoboMsater](https://www.robomaster.com/en-US). 
+
+Currently, I'm looking for a position as a Research Assistant and a PHD in 2024 Fall. If you are interested in my CV, feel free to email me.
 
