@@ -14,7 +14,7 @@ profile:
         display: inline-block;
         width: 20px;
         height: 20px;
-        background-image: url("assets/img/email_16x16.png");
+        background-image: url("assets/img/email_20x20.png");
         margin-right: 5px;
       }
     </style>
