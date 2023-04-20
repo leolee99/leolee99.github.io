@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-I have won first prize in "National Artificial Intelligence Innovation and Application Competition 2022".
+I have won first prize in **"National Artificial Intelligence Innovation and Application Competition 2022"**.
