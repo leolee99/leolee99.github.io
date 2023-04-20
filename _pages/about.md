@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-<style type="text/css">
+
 .mycss{
       display: flex;
-    }
+}
 
 profile:
   align: right
