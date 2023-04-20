@@ -16,6 +16,7 @@ profile:
         height: 20px;
         background-image: url("assets/img/email_20x20.png");
         margin-right: 5px;
+        vertical-align: middle;
       }
     </style>
     <p><span class="icon">hi</span>hi</p>
