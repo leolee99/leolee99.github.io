@@ -15,7 +15,7 @@ profile:
         width: 20px;
         height: 20px;
         background-image: url("assets/img/email_20x20.png");
-        margin-right: 5px;
+        margin-right: 10px;
         vertical-align: middle;
       }
     </style>
@@ -26,7 +26,7 @@ profile:
         width: 20px;
         height: 20px;
         background-image: url("assets/img/github_20x20.png");
-        margin-right: 5px;
+        margin-right: 10px;
         vertical-align: middle;
       }
     </style>
@@ -37,7 +37,7 @@ profile:
         width: 20px;
         height: 20px;
         background-image: url("assets/img/googlescholar_20x20.png");
-        margin-right: 5px;
+        margin-right: 10px;
         vertical-align: middle;
       }
     </style>
