@@ -72,13 +72,20 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - National Artificial Intelligence Innovation and Application Competition 2022 **(National First prize)**
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - China Undergraduate Mathematical Contest in Modeling 2020 **(National Second Prize)**
+    - year: 2019
+      items: 
+        - RoboMaster University Championship 2019 **(National Third prize)**
+        - RoboMaster University Technical Challenge 2019 **(National Second prize)**
+    - year: 2018
+      items: 
+        - RoboMaster University Championship 2018 **(Regional Champion)**
+        - RoboMaster University Technical Challenge 2018 **(National Third place)**
 
 - title: Academic Interests
   type: nested_list
