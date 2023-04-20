@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Win first prize in **"National Artificial Intelligence Innovation and Application Competition 2022"**.
+Win first prize in **"National Artificial Intelligence Innovation and Application Competition"**.
