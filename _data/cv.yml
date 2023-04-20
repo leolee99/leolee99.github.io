@@ -1,10 +1,10 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Hao Li (Leo Lee)
-#     - name: Date of Birth
-#       value: 7th March 1999
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hao Li (Leo Lee)
+    - name: Date of Birth
+      value: 7th March 1999
 
 # - title: Education
 #   type: time_table
