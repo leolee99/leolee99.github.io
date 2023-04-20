@@ -90,14 +90,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Multimodal.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Noise Learning .
+        - Uncertainty.
+        - Diversity.
 
 - title: Other Interests
   type: list
