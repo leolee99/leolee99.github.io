@@ -90,11 +90,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Multimodal.
+    - title: Multimodal, Cross-modal Retrieval.
       items: 
+        - Diversity.
         - Noise Learning .
         - Uncertainty.
-        - Diversity.
 
 - title: Other Interests
   type: list
