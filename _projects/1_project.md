@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: RoboMaster2018
+description: A project of RoboMaster2018
+img: assets/img/RoboMaster/Cup2.jpg
 importance: 1
-category: work
+category: competition
 ---
 
 Every project has a beautiful feature showcase page.
