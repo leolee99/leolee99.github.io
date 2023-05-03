@@ -70,7 +70,7 @@ In <b>RoboMaster 2019</b>, our robots need to recognize the rotating windmill fr
     <b>Figure 3:</b> The illustrations of the energy mechanism in RoboMaster 2019.
 </div>
 
-Additionally, I'm an operator who controls robot 4 (5 in National Competition) to confront the opponents. 
+Additionally, I'm an operator who controls robot 4 (5 in Global Competition) to confront the opponents. 
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
