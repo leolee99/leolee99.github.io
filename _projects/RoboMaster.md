@@ -8,7 +8,7 @@ category: competition
 ---
 
 <h2><b>Profile:</b></h2>
-This project is mainly about my experience participating in RoboMaster 2018 (Oct 2017 - Aug 2018), RoboMaster 2019 (Sep 2018 - Aug 2019).
+This project is mainly about my experience participating in RoboMaster 2018 (Oct 2017 - Aug 2018), RoboMaster 2019 (Sep 2018 - Aug 2019). The official website of RoboMaster is [here](https://www.robomaster.com/en-US).
 
 In this competition, our team should design 7 robots and build communication between robots and keyboard mouse, using image senor equiped on the robots to fight with other teams' robots from the first perspective in a basketball court sized field. 
 
@@ -134,11 +134,11 @@ Additionally, I'm an operator who controls robot 4 (5 in National Competition) t
 <h2><b>Awards:</b></h2>
 In <b>RoboMaster University Championship 2018</b>, our team won the <b>Regional Champion</b>.
 
-In <b>RoboMaster University Technical Challenge 2018</b>, our team won the <b>National Third Place</b>.
+In <b>RoboMaster University Technical Challenge 2018</b>, our team won the <b>Global Third Place</b>.
 
-In <b>RoboMaster University Championship 2019</b>, our team won the <b>National Third Prize</b>.
+In <b>RoboMaster University Championship 2019</b>, our team won the <b>Global Third Prize</b>.
 
-In <b>RoboMaster University Technical Challenge 2019</b>, our team won the <b>National Second Prize</b>.
+In <b>RoboMaster University Technical Challenge 2019</b>, our team won the <b>Global Second Prize</b>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
