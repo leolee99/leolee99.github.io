@@ -55,5 +55,3 @@ I'm a master student in computer science at University of Electronic Science and
 
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of [RoboMaster](https://www.robomaster.com/en-US) [**(details)**](https://leolee99.github.io/projects/RoboMaster/) for two years. 
 
-Currently, I'm looking for a position as a <b>Research Intern</b> or a <b>Research Assistant</b> (funding is not necessary). If you are interested in my CV, feel free to email me.
-
