@@ -53,7 +53,6 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a master student in computer science at University of Electronic Science and Technology of China [**(UESTC)**](https://www.uestc.edu.cn/). I am a member of Center for Future Media [**(CFM)**](https://cfm.uestc.edu.cn/index) and co-advised by Prof. [Jingkuan Song](https://jingkuansong.github.io/) and Prof. [Lianli Gao](https://lianligao.github.io/).
 
-My major interest is the <b>Multimodal Learning</b>, especially for Vision and Language. Now my research mainly focuses on <b>Diversity</b>, <b>Uncertainty</b>, <b>Robust Learning</b>, and <b>Multimodal Theory</b>.
-
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of [RoboMaster](https://www.robomaster.com/en-US) [**(details)**](https://leolee99.github.io/projects/RoboMaster/) for two years. 
 
+My research interest mainly lies on <b>Multimodal</b> and <b>Robotics</b>. Currently I’m working on <b>Multimodal Learning</b>, <b>Robust Learning</b>, and <b>Multimodal Theory</b>.
