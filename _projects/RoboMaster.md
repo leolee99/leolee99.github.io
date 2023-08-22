@@ -155,4 +155,5 @@ In <b>RoboMaster University Technical Challenge 2019</b>, our team won the <b>Gl
     <b>Figure 7:</b> The awards we have obtained.
 </div>
 
+<body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EFDw3X-pVGMpgH4phF7DcgUxUMkP6sKhDFZJ8uGGAjY&cl=ffffff&w=a"></script></body>
 
