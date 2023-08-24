@@ -59,7 +59,7 @@ My research interest mainly lies on <b>Multimodal</b> and <b>Robotics</b>. Curre
 
 <style>
   #clustrmaps {
-    display: none;
+    display: hidden;
   }
 </style>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EFDw3X-pVGMpgH4phF7DcgUxUMkP6sKhDFZJ8uGGAjY&cl=ffffff&w=a"></script>
