@@ -57,9 +57,22 @@ I received a B.S. in computer science from Northeast Forest University in 2021, 
 
 My research interest mainly lies on <b>Multimodal</b> and <b>Robotics</b>. Currently I’m working on <b>Multimodal Learning</b>, <b>Robust Learning</b>, and <b>Multimodal Theory</b>.
 
+<!--
 <style>
   #clustrmaps {
     visibility: none;
   }
 </style>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EFDw3X-pVGMpgH4phF7DcgUxUMkP6sKhDFZJ8uGGAjY&cl=ffffff&w=a"></script>
+-->
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2d4937c996930a7effc3c3120120f7d4";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
