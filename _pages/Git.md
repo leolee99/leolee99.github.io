@@ -3,7 +3,7 @@ layout: page
 permalink: /Github/
 title: Github
 description: The stats of my <a href='https://github.com/leolee99' target="_blank">Github</a>.
-nav: true
+nav: false
 nav_order: 3
 ---
 
