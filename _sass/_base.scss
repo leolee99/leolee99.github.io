@@ -109,6 +109,12 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+.title {
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+}
+
 // Profile
 
 .profile {
@@ -598,7 +604,6 @@ footer.sticky-bottom {
 
       .title {
         font-family: Arial, sans-serif;
-        font-style: italic;
         font-weight: bolder;
       }
 

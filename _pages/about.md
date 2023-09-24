@@ -26,9 +26,9 @@ social: false  # includes social icons at the bottom of the page
     }
 </style>
 
-<p style="font-family: Arial, sans-serif; font-size: 16px">I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of <a href="https://cfm.uestc.edu.cn/index">Center for Future Media</a>, co-advised by <a href="https://jingkuansong.github.io/">Prof. Jingkuan Song</a> and <a href="https://lianligao.github.io/">Prof. Lianli Gao</a>. Now, I'm a visiting student at <a href="https://www.nextcenter.org/">NExT++</a> supervised by <a href="https://www.chuatatseng.com/">Prof. Tat-Seng Chua</a>. <br />
+<p style="font-family: Arial, sans-serif; font-size: 16px">I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of <a href="https://cfm.uestc.edu.cn/index" style="font-weight: bolder;">Center for Future Media</a>, co-advised by <a href="https://jingkuansong.github.io/" style="font-weight: bolder;">Prof. Jingkuan Song</a> and <a href="https://lianligao.github.io/" style="font-weight: bolder;">Prof. Lianli Gao</a>. Now, I'm a visiting student at <a href="https://www.nextcenter.org/" style="font-weight: bolder;">NExT++</a> supervised by <a href="https://www.chuatatseng.com/" style="font-weight: bolder;">Prof. Tat-Seng Chua</a>. <br>
 
-I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of <a href="https://www.robomaster.com/en-US">RoboMaster</a> <a href="https://leolee99.github.io/projects/RoboMaster/">(details)</a> for two years. <br />
+I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of <a href="https://www.robomaster.com/en-US"  style="font-weight: bolder;">>RoboMaster</a> <a href="https://leolee99.github.io/projects/RoboMaster/"  style="font-weight: bolder;">>(details)</a> for two years. <br>
 
 My research interest mainly lies on <b>Multimodal</b> and <b>Robotics</b>. Currently I’m working on <b>Multimodal Learning</b>, <b>Robust Learning</b>, and <b>Multimodal Theory</b>.</p> 
 
