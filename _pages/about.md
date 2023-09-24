@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of Center for Future Media [**(CFM)**](https://cfm.uestc.edu.cn/index) and co-advised by [**Prof. Jingkuan Song**](https://jingkuansong.github.io/) and [**Prof. Lianli Gao**](https://lianligao.github.io/). Now, I'm a visiting student at [**NExT++**](https://www.nextcenter.org/) supervised by [**Prof. Tat-Seng Chua**](https://www.chuatatseng.com/).
+I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of [**Center for Future Media**](https://cfm.uestc.edu.cn/index) and co-advised by [**Prof. Jingkuan Song**](https://jingkuansong.github.io/) and [**Prof. Lianli Gao**](https://lianligao.github.io/). Now, I'm a visiting student at [**NExT++**](https://www.nextcenter.org/) supervised by [**Prof. Tat-Seng Chua**](https://www.chuatatseng.com/).
 
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of [**RoboMaster**](https://www.robomaster.com/en-US) [**(details)**](https://leolee99.github.io/projects/RoboMaster/) for two years. 
 
