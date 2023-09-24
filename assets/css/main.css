@@ -189,6 +189,12 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+.title {
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+}
+
 .profile {
   width: 100%;
 }
@@ -562,7 +568,6 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .title {
   font-family: Arial, sans-serif;
-  font-style: italic;
   font-weight: bolder;
 }
 .publications ol.bibliography li .author a {
