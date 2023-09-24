@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span>18th.leolee [at] gmail.com</span>
+subtitle: <a href='mailto:18th.leolee@gmail.com' target="_blank">18th.leolee@gmail.com</a>
 
 
 profile:
