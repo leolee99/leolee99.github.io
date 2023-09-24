@@ -19,7 +19,7 @@ visitors: true
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p style="font-style: italic; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of [**Center for Future Media**](https://cfm.uestc.edu.cn/index), co-advised by [**Prof. Jingkuan Song**](https://jingkuansong.github.io/) and [**Prof. Lianli Gao**](https://lianligao.github.io/). Now, I'm a visiting student at [**NExT++**](https://www.nextcenter.org/) supervised by [**Prof. Tat-Seng Chua**](https://www.chuatatseng.com/).
+<p style="font-family: Arial, sans-serif; font-size: 16px">I'm a master student in computer science at University of Electronic Science and Technology of China. I am a member of <a href="https://cfm.uestc.edu.cn/index">Center for Future Media</a>, co-advised by [**Prof. Jingkuan Song**](https://jingkuansong.github.io/) and [**Prof. Lianli Gao**](https://lianligao.github.io/). Now, I'm a visiting student at [**NExT++**](https://www.nextcenter.org/) supervised by [**Prof. Tat-Seng Chua**](https://www.chuatatseng.com/).
 
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of [**RoboMaster**](https://www.robomaster.com/en-US) [**(details)**](https://leolee99.github.io/projects/RoboMaster/) for two years. 
 
