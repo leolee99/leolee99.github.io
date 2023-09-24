@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 <style>
     /* Define a CSS rule to change the color of links to black */
     a {
-        color: grey;
+        color: black;
         font-weight: bold;
     }
 </style>
