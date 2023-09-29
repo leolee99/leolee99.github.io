@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='mailto:18th.leolee@gmail.com' target="_blank">18th.leolee@gmail.com</a>
 <br>
 <br>
-Hope research be the goal, not the tool.
+Let research be the goal, not the tool.
 
 
 profile:
