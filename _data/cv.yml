@@ -21,15 +21,14 @@
       description:
         - "<b>Major:</b> Computer Science."
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Experience
+  type: time_table
+  contents:
+     - title: Research Intern
+       institution: NExT++ of National University of Singapore
+       year: 2023.7-2024.1
+       description:
+        - Advised by Prof. <a href="https://www.chuatatseng.com/">Tat-seng Chua</a>.
 #         - title: Description 3.
 #           contents:
 #             - Sub-description 1.
@@ -57,17 +56,20 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://github.com/leolee99/PAU">PAU</a>
+      year: 2023
+      description: A project of pytorch implementation for NeurIPS 2023 paper of "Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval".
+    - title: <a href="https://github.com/leolee99/CLIP_ITM">CLIP_ITM</a>
+      year: 2023
+      description: A simple pytorch implementation of baseline based-on CLIP for Image-text Matching.
     - title: <a href="https://github.com/VL-Group/2022-NeurIPS-DAA">DAA</a>
       year: 2022
       description: A project of pytorch implementation for NeurIPS 2022 paper of “A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval”.
-      
     - title: <a href="https://github.com/leolee99/Online-CNCLIP">Online-CNCLIP</a>
       year: 2022
       description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
       
-    - title: <a href="https://github.com/leolee99/YOLOv4_SiamRPN">YOLOv4_SiamRPN</a>
-      year: 2021
-      description: A project combined YOLOv4-tiny, Re-id with SiamRPN++ on aarch64.
+
 
 - title: Honors and Awards
   type: time_table
