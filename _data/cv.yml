@@ -94,9 +94,8 @@
   contents:
     - title: Multi-modality, Cross-modal Retrieval.
       items: 
-        - Diversity.
         - Trustworthy Learning.
-        - Uncertainty.
+        - Pre-trained model.
 
 # - title: Other Interests
 #   type: list
