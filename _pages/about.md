@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:18th.leolee@gmail.com' target="_blank">18th.leolee@gmail.com</a> <br> <i>Let research be the goal, not the tool.</i>
+subtitle: <a href='mailto:18th.leolee@gmail.com' target="_blank">18th.leolee@gmail.com</a> <br> <i>Let the research be the goal, not the tool.</i>
 
 
 profile:
