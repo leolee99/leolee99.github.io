@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined the Robot Team Ares and participated in a cool international robot competition of <a href="https://www.robomaster.com/en-US" style="font-weight: bold;">RoboMaster</a><a href="https://leolee99.github.io/projects/RoboMaster/" style="font-weight: bold;">(details)</a> for two years. 
 <br>
 <br>
-My research interest mainly lies on <b>Multimodal</b> and <b>Robotics</b>. Currently I’m working on <b>Multimodal Learning</b>, <b>Robust Learning</b>, and <b>Multimodal Theory</b>.</p> 
+My research interest mainly lies on <b>Multi-modality</b>, <b>Trustworthy learning</b>, and <b>Robotics</b>. I'm currently looking for a multimodal related PhD position in 24Fall</p> 
 
 
 
