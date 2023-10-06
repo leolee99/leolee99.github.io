@@ -25,10 +25,11 @@
   type: time_table
   contents:
      - title: Research Intern
-       institution: NExT++ of National University of Singapore
+       institution: <a href="https://www.nextcenter.org/">NExT++</a>, National University of Singapore
        year: 2023.7-2024.1
        description:
-        - Advised by Prof. <a href="https://www.chuatatseng.com/">Tat-seng Chua</a>.
+        - Supervised by Prof. <a href="https://www.chuatatseng.com/">Tat-seng Chua</a>.
+        - Mentored by Dr. <a href="https://anzhang314.github.io/">An Zhang</a>.
 #         - title: Description 3.
 #           contents:
 #             - Sub-description 1.
@@ -96,6 +97,7 @@
       items: 
         - Trustworthy Learning.
         - Pre-trained model.
+        - AI Agent.
 
 # - title: Other Interests
 #   type: list
