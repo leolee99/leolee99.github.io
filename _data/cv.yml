@@ -93,7 +93,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Multi-modality, Cross-modal Retrieval.
+    - title: Multi-modality, Natural Language Processing, Computer Vision.
       items: 
         - Trustworthy Learning.
         - Pre-trained model.
