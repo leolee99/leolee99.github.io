@@ -267,8 +267,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Hao]
-  first_name: [Li]
+  last_name: [Li]
+  first_name: [Hao]
 
   style: dependent/proceedings-of-the-ieee
   locale: en
