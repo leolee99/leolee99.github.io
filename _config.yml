@@ -267,10 +267,10 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Hao
-  first_name: Li
+  last_name: [Hao]
+  first_name: [Li]
 
-  style: apa
+  style: dependent/proceedings-of-the-ieee
   locale: en
 
   source: /_bibliography/
