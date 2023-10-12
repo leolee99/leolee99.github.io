@@ -1,14 +1,17 @@
-"Song":
-  - firstname: ["Jingkuan", "J."]
-    url: https://cfm.uestc.edu.cn/~songjingkuan/
+"Li":
+ - firstname: ["Hao", "H."]
 
-"Gao":
-  - firstname: ["Lianli", "L."]
-    url: https://lianligao.github.io
+# "Song":
+#   - firstname: ["Jingkuan", "J."]
+#     url: https://cfm.uestc.edu.cn/~songjingkuan/
 
-"Shen":
-  - firstname: ["Heng Tao", "H. Tao", "H. T."]
-    url: https://cfm.uestc.edu.cn/~shenht/
+# "Gao":
+#   - firstname: ["Lianli", "L."]
+#     url: https://lianligao.github.io
+
+# "Shen":
+#   - firstname: ["Heng Tao", "H. Tao", "H. T."]
+#     url: https://cfm.uestc.edu.cn/~shenht/
 
 # "Bach": 
 #   - firstname: ["Johann Sebastian", "J. S."]
