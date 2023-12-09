@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by **AAAI 2024**. Congratulating to all the collaborators **Xu Zhang** and Prof. **Mang Ye**. :sparkles: :smile:
+One paper was accepted by **AAAI 2024**. Congratulating to all the collaborators **Xu Zhang** and Prof. **Mang Ye**. :sparkles: :smile:
