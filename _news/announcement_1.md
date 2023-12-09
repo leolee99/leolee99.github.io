@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by **NeurIPS 2022**.  :sparkles: :smile:
+One paper was accepted by **NeurIPS 2022**.  :sparkles: :smile:
