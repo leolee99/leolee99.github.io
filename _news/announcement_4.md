@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will attend to the conference of **NeurIPS 2023** held in New Orleans.
+I will attend to the conference of **NeurIPS 2023** held in New Orleans!
