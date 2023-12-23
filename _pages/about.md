@@ -33,7 +33,7 @@ social: false  # includes social icons at the bottom of the page
 I received a B.S. in computer science from Northeast Forest University in 2021, where I joined a Robot Team and participated in a cool international robot competition of <a href="https://www.robomaster.com/en-US" style="font-weight: bold;">RoboMaster</a> <a href="https://leolee99.github.io/projects/RoboMaster/" style="font-weight: bold;">(details)</a> for two years. 
 <br>
 <br>
-My research interest mainly lies on <b>multi-modality</b>, <b>AI Agent</b>, and <b>trustworthy learning</b>. I have served as a reviewer in <a style="font-weight: bold;">TMM</a>, <a style="font-weight: bold;">WWW</a>, <a style="font-weight: bold;">CVPR</a>.</p> 
+My research interest mainly lies on <b>multi-modality</b>, <b>AI Agent</b>, and <b>trustworthy learning</b>. I have served as a reviewer in <a style="font-weight: bold;">TMM</a>, <a style="font-weight: bold;">WWW 24</a>, <a style="font-weight: bold;">CVPR 24</a>.</p> 
 
 
 
