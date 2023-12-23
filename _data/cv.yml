@@ -90,21 +90,21 @@
         - RoboMaster University Championship 2018 <b>(Regional Champion)</b>
         - RoboMaster University Technical Challenge 2018 <b>(National Third place)</b>
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    #- title: Multi-modality, Large Language Model.
-      items: 
-        - Multi-modality.
-        - AI Agent.
-        - Trustworthy Learning.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Multi-modality, Large Language Model.
+#       items: 
+#         - Multi-modality.
+#         - AI Agent.
+#         - Trustworthy Learning.
 
 - title: service
   type: nested_list
   contents:
     - title: Reviewer.
       items: 
-        - TMM, WWW 2023 CVPR 2024.
+        - TMM, WWW 2023, CVPR 2024.
 
 
 # - title: Other Interests
