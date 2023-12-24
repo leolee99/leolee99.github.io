@@ -54,21 +54,21 @@
 #       institution: University of Zurich, Zurich, Switzerland
 #       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/leolee99/PAU">PAU</a>
-      year: 2023
-      description: A project of pytorch implementation for NeurIPS 2023 paper of "Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval".
-    - title: <a href="https://github.com/leolee99/CLIP_ITM">CLIP_ITM</a>
-      year: 2023
-      description: A simple pytorch implementation of baseline based-on CLIP for Image-text Matching.
-    - title: <a href="https://github.com/VL-Group/2022-NeurIPS-DAA">DAA</a>
-      year: 2022
-      description: A project of pytorch implementation for NeurIPS 2022 paper of “A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval”.
-    - title: <a href="https://github.com/leolee99/Online-CNCLIP">Online-CNCLIP</a>
-      year: 2022
-      description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/leolee99/PAU">PAU</a>
+#       year: 2023
+#       description: A project of pytorch implementation for NeurIPS 2023 paper of "Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval".
+#     - title: <a href="https://github.com/leolee99/CLIP_ITM">CLIP_ITM</a>
+#       year: 2023
+#       description: A simple pytorch implementation of baseline based-on CLIP for Image-text Matching.
+#     - title: <a href="https://github.com/VL-Group/2022-NeurIPS-DAA">DAA</a>
+#       year: 2022
+#       description: A project of pytorch implementation for NeurIPS 2022 paper of “A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval”.
+#     - title: <a href="https://github.com/leolee99/Online-CNCLIP">Online-CNCLIP</a>
+#       year: 2022
+#       description: A project of ChineseCLIP using online learning for cross-modal E-commerce retrieval.
       
 
 
