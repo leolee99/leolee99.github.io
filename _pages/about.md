@@ -7,6 +7,8 @@ subtitle: <a href='mailto:18th.leolee@gmail.com' target="_blank">18th.leolee@gma
 
 profile:
   align: right
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   address: >
 
     
