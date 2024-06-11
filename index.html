@@ -436,7 +436,75 @@ var _hmt = _hmt || [];
         <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
 
         <!-- Entry bib key -->
-        <div id="Rec4Agent" class="col-sm-8">
+        <div id="LD-Agent" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Hello Again! LLM-powered Personalized Agent for Long-term Dialogue</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Hao Li</em>, Chenghao Yang, An Zhang, Yang Deng, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Xiang Wang, Tat-seng Chua' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">2 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>In </em>, 2024
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://arxiv.org/pdf/2406.05925v1" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://github.com/leolee99/LD-Agent" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-arxiv-id="2406.05925v1"></span>
+              <span class="__dimensions_badge_embed__" data-pmid="" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Open-domain dialogue systems have seen remarkable advancements with the development of large language models (LLMs). Nonetheless, most existing dialogue systems predominantly focus on brief single-session interactions, neglecting the real-world demands for long-term companionship and personalized interactions with chatbots. Crucial to addressing this real-world need are event summary and persona management, which enable reasoning for appropriate long-term dialogue responses. Recent progress in the human-like cognitive and reasoning capabilities of LLMs suggests that LLM-based agents could significantly enhance automated perception, decision-making, and problem-solving. In response to this potential, we introduce a model-agnostic framework, the Long-term Dialogue Agent (LD-Agent), which incorporates three independently tunable modules dedicated to event perception, persona extraction, and response generation. For the event memory module, long and short-term memory banks are employed to separately focus on historical and ongoing sessions, while a topic-based retrieval mechanism is introduced to enhance the accuracy of memory retrieval. Furthermore, the persona module conducts dynamic persona modeling for both users and agents. The integration of retrieved memories and extracted personas is subsequently fed into the generator to induce appropriate responses. The effectiveness, generality, and cross-domain capabilities of LD-Agent are empirically demonstrated across various illustrative benchmarks, models, and tasks. The code is released at https://github.com/leolee99/LD-Agent.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">LD-Agent</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Li, Hao and Yang, Chenghao and Zhang, An and Deng, Yang and Wang, Xiang and Chua, Tat-seng}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Hello Again! LLM-powered Personalized Agent for Long-term Dialogue}</span><span class="p">,</span>
+  <span class="na">eprint</span> <span class="p">=</span> <span class="s">{2406.05925v1}</span><span class="p">,</span>
+  <span class="na">archiveprefix</span> <span class="p">=</span> <span class="s">{arXiv}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="Agent4Rec" class="col-sm-8">
         <!-- Title -->
         <div class="title">On Generative Agents in Recommendation</div>
         <!-- Author -->
@@ -487,7 +555,7 @@ var _hmt = _hmt || [];
           </div>
 <!-- Hidden bibtex block -->
           <div class="bibtex hidden">
-            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">Rec4Agent</span><span class="p">,</span>
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">Agent4Rec</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{On Generative Agents in Recommendation}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Zhang*, An and Sheng*, Leheng and Chen*, Yuxin and Li, Hao and Deng, Yang and Wang, Xiang and Chua, Tat-Seng}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
