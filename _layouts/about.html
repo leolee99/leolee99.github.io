@@ -56,13 +56,12 @@ layout: default
           <!-- Selected papers -->
           {% if page.selected_papers -%}
 <!--             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2> -->
-            <h1 id="bio">Selected Publications</h1>
+            <h1 id="pub">Selected Publications</h1>
             {%- include selected_papers.html %}
           {%- endif %}
 
           {% if page.visitors -%}
-<!--             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2> -->
-            <h1 id="bio">Visitors</h1>
+            <h1 id="visitors">Visitors</h1>
             <body><a href="https://clustrmaps.com/site/1bw5p"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=EFDw3X-pVGMpgH4phF7DcgUxUMkP6sKhDFZJ8uGGAjY&cl=ffffff" /></a></body>
           {%- endif %}
 
