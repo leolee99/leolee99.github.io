@@ -55,6 +55,24 @@
   selected={true},
 }
 
+@inproceedings{OSA,
+  abbr={arXiv},
+  author= {Hao Li* and
+               Jiayang Gu* and
+               Jingkuan Song and
+               An Zhang and
+               Lianli Gao},
+  title = {One-step Noisy Label Mitigation},
+  eprint={2410.01944},
+  archivePrefix={arXiv},
+  year = {2024},
+  abstract={Mitigating the detrimental effects of noisy labels on the training process has become increasingly critical, as obtaining entirely clean or human-annotated samples for large-scale pre-training tasks is often impractical. Nonetheless, existing noise mitigation methods often encounter limitations in practical applications due to their task-specific design, model dependency, and significant computational overhead. In this work, we exploit the properties of high-dimensional orthogonality to identify a robust and effective boundary in cone space for separating clean and noisy samples. Building on this, we propose One-step Anti-Noise (OSA), a model-agnostic noisy label mitigation paradigm that employs an estimator model and a scoring function to assess the noise level of input pairs through just one-step inference, a costefficient process. We empirically demonstrate the superiority of OSA, highlighting its enhanced training robustness, improved task transferability, ease of deployment, and reduced computational costs across various benchmarks, models, and tasks. Our code is released at https://github.com/leolee99/OSA.},
+  code={https://github.com/leolee99/OSA},
+  pdf={https://arxiv.org/pdf/2410.01944},
+  bibtex_show={true},
+  selected={true},
+}
+
 @inproceedings{LD-Agent,
   abbr={arXiv},
   author = {Hao Li* and
@@ -93,22 +111,4 @@
       pdf={https://arxiv.org/pdf/2310.10108v1},
       bibtex_show={true},
       selected={false},
-}
-
-@inproceedings{OSA,
-  abbr={arXiv},
-  author= {Hao Li* and
-               Jiayang Gu* and
-               Jingkuan Song and
-               An Zhang and
-               Lianli Gao},
-  title = {One-step Noisy Label Mitigation},
-  eprint={2410.01944},
-  archivePrefix={arXiv},
-  year = {2024},
-  abstract={Mitigating the detrimental effects of noisy labels on the training process has become increasingly critical, as obtaining entirely clean or human-annotated samples for large-scale pre-training tasks is often impractical. Nonetheless, existing noise mitigation methods often encounter limitations in practical applications due to their task-specific design, model dependency, and significant computational overhead. In this work, we exploit the properties of high-dimensional orthogonality to identify a robust and effective boundary in cone space for separating clean and noisy samples. Building on this, we propose One-step Anti-Noise (OSA), a model-agnostic noisy label mitigation paradigm that employs an estimator model and a scoring function to assess the noise level of input pairs through just one-step inference, a costefficient process. We empirically demonstrate the superiority of OSA, highlighting its enhanced training robustness, improved task transferability, ease of deployment, and reduced computational costs across various benchmarks, models, and tasks. Our code is released at https://github.com/leolee99/OSA.},
-  code={https://github.com/leolee99/OSA},
-  pdf={https://arxiv.org/pdf/2410.01944},
-  bibtex_show={true},
-  selected={true},
 }
