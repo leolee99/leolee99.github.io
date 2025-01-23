@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-9-22 15:59:00-0400
+date: 2023-12-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper was accepted by **NeurIPS 2023**.  :sparkles: :smile:
+I will attend to the conference of **NeurIPS 2023** held in New Orleans!
