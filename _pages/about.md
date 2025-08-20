@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
     }
 </style>
 
-<p style="font-family: Arial, sans-serif; font-size: 18px">I am currently a Ph.D. student at Washington University in St. Louis, supervised by <a href="https://engineering.washu.edu/faculty/Ning-Zhang.html" style="font-weight: bold;">Prof. Ning Zhang</a>. Besides, I fortunately work together with <a href="https://xiaocw11.github.io/" style="font-weight: bold;">Prof. Chaowei Xiao</a>. 
+<p style="font-family: Arial, sans-serif; font-size: 18px">I am currently a Ph.D. student at Washington University in St. Louis, supervised by <a href="https://engineering.washu.edu/faculty/Ning-Zhang.html" style="font-weight: bold;">Prof. Ning Zhang</a>. In addtion, In addition, I am fortunate to be working with <a href="https://xiaocw11.github.io/" style="font-weight: bold;">Prof. Chaowei Xiao</a>. 
 <br>
 <!-- <br>
 Previously, I was a master student in computer science at University of Electronic Science and Technology of China, co-advised by <a href="https://jingkuansong.github.io/" style="font-weight: bold;">Prof. Jingkuan Song</a> and <a href="https://lianligao.github.io/" style="font-weight: bold;">Prof. Lianli Gao</a>. 
