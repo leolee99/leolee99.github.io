@@ -1,6 +1,76 @@
 ---
 ---
 
+@inproceedings{DRIFT,
+  abbr={NeurIPS},
+  author = {Hao Li and
+            Xiaogeng Liu and
+            Hung-Chun Chiu and
+            Dianqi Li and
+            Ning Zhang and
+            Chaowei Xiao},
+  title = {DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents},
+  booktitle = {NeurIPS},
+  year = {2025},
+  abstract={Large Language Models (LLMs) are increasingly central to agentic systems due to their strong reasoning and planning capabilities. By interacting with external environments through predefined tools, these agents can carry out complex user tasks. Nonetheless, this interaction also introduces the risk of prompt injection attacks, where malicious inputs from external sources can mislead the agent’s behavior, potentially resulting in economic loss, privacy leakage, or system compromise. System-level defenses have recently shown promise by enforcing static or predefined policies, but they still face two key challenges: the ability to dynamically update security rules and the need for memory stream isolation. To address these challenges, we propose DRIFT, a Dynamic Rule-based Isolation Framework for Trustworthy agentic systems, which enforces both control- and data-level constraints. A Secure Planner first constructs a minimal function trajectory and a JSON-schema-style parameter checklist for each function node based on the user query. A Dynamic Validator then monitors deviations from the original plan, assessing whether changes comply with privilege limitations and the user’s intent. Finally, an Injection Isolator detects and masks any instructions that may conflict with the user query from the memory stream to mitigate long-term risks. We empirically validate the effectiveness of DRIFT on the AgentDojo benchmark, demonstrating its strong security performance while maintaining high utility across diverse models—showcasing both its robustness and adaptability},
+  code={https://github.com/leolee99/DRIFT},
+  pdf={www.arxiv.org/pdf/2506.12104},
+  bibtex_show={true},
+  selected={true},
+}
+
+@inproceedings{PIGuard,
+  abbr={ACL},
+  author = {Hao Li* and
+            Xiaogeng Liu* and
+            Ning Zhang and
+            Chaowei Xiao},
+  title = {PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free},
+  booktitle = {ACL},
+  year = {2025},
+  abstract={Prompt injection attacks pose a critical threat to large language models (LLMs), enabling goal hijacking and data leakage. Prompt guard models, though effective in defense, suffer from over-defense -- falsely flagging benign inputs as malicious due to trigger word bias. To address this issue, we introduce NotInject, an evaluation dataset that systematically measures over-defense across various prompt guard models. NotInject contains 339 benign samples enriched with trigger words common in prompt injection attacks, enabling fine-grained evaluation. Our results show that state-of-the-art models suffer from over-defense issues, with accuracy dropping close to random guessing levels (60%). To mitigate this, we propose InjecGuard, a novel prompt guard model that incorporates a new training strategy, Mitigating Over-defense for Free (MOF), which significantly reduces the bias on trigger words. InjecGuard demonstrates state-of-the-art performance on diverse benchmarks including NotInject, surpassing the existing best model by 30.8%, offering a robust and open-source solution for detecting prompt injection attacks.},
+  code={https://github.com/leolee99/PIGuard},
+  pdf={https://aclanthology.org/2025.acl-long.1468.pdf},
+  html={https://injecguard.github.io/},
+  bibtex_show={true},
+  selected={true},
+}
+
+@inproceedings{LD-Agent,
+  abbr={NAACL},
+  author = {Hao Li* and
+            Chenghao Yang* and
+            An Zhang and
+            Yang Deng and
+            Xiang Wang and
+            Tat-seng Chua},
+  title = {Hello Again! LLM-powered Personalized Agent for Long-term Dialogue},
+  booktitle = {NAACL},
+  year = {2025},
+  abstract={Open-domain dialogue systems have seen remarkable advancements with the development of large language models (LLMs). Nonetheless, most existing dialogue systems predominantly focus on brief single-session interactions, neglecting the real-world demands for long-term companionship and personalized interactions with chatbots. Crucial to addressing this real-world need are event summary and persona management, which enable reasoning for appropriate long-term dialogue responses. Recent progress in the human-like cognitive and reasoning capabilities of LLMs suggests that LLM-based agents could significantly enhance automated perception, decision-making, and problem-solving. In response to this potential, we introduce a model-agnostic framework, the Long-term Dialogue Agent (LD-Agent), which incorporates three independently tunable modules dedicated to event perception, persona extraction, and response generation. For the event memory module, long and short-term memory banks are employed to separately focus on historical and ongoing sessions, while a topic-based retrieval mechanism is introduced to enhance the accuracy of memory retrieval. Furthermore, the persona module conducts dynamic persona modeling for both users and agents. The integration of retrieved memories and extracted personas is subsequently fed into the generator to induce appropriate responses. The effectiveness, generality, and cross-domain capabilities of LD-Agent are empirically demonstrated across various illustrative benchmarks, models, and tasks. The code is released at https://github.com/leolee99/LD-Agent.},
+  code={https://github.com/leolee99/LD-Agent},
+  pdf={https://arxiv.org/pdf/2406.05925v1},
+  bibtex_show={true},
+  selected={true},
+}
+
+
+@inproceedings{NPC,
+  abbr={AAAI},
+  author = {Xu Zhang* and
+            Hao Li* and
+            Mang Ye},
+  title = {Negative Pre-aware for Noisy Cross-modal Matching},
+  booktitle = {AAAI},
+  year = {2024},
+  abstract = {Cross-modal noise-robust learning is a challenging task since noisy correspondence is hard to recognize and rectify. Due to the cumulative and unavoidable negative impact of unresolved noise, existing methods cannot maintain a stable performance when the noise increases. In this paper, we present a novel Negative Pre-aware Cross-modal (NPC) matching solution for large visual-language model fine-tuning on noisy downstream tasks. It is featured in two aspects: (1) For noise recognition and resistance, previous methods usually directly filter out a noise subset, we propose to estimate the negative impact of each sample. It does not need additional correction mechanisms that may predict unreliable correction results, leading to self-reinforcing error. We assign a confidence weight to each sample according to its negative impact in the training process. This adaptively adjusts the contribution of each sample to avoid noisy accumulation. (2) For maintaining stable performance with increasing noise, we utilize the memorization effect of DNNs by maintaining a memory bank. Specifically, we apply GMM to select high-confident clean samples as the memory entry, where the memory entry is used to estimate the negative impact of each sample. Since clean samples are easier distinguished by GMM with increasing noise, the memory bank can still maintain high quality at a high noise ratio. Compared to the correction mechanism focusing on noise samples, memory bank-based estimation is more robust, which makes the model performance stable on noisy datasets. Extensive experiments demonstrate that our method significantly improves matching accuracy and performance stability at increasing noise ratio. Our approach also surpasses the state-of-the-art methods by a large margin.},
+  code={https://github.com/ZhangXu0963/NPC},
+  pdf={https://arxiv.org/pdf/2312.05777.pdf},
+  bibtex_show={true},
+  selected={true},
+}
+
+
 @inproceedings{PAU,
   abbr={NeurIPS},
   author = {Hao Li and
@@ -40,55 +110,6 @@
   selected={true},
 }
 
-@inproceedings{LD-Agent,
-  abbr={NAACL},
-  author = {Hao Li* and
-            Chenghao Yang* and
-            An Zhang and
-            Yang Deng and
-            Xiang Wang and
-            Tat-seng Chua},
-  title = {Hello Again! LLM-powered Personalized Agent for Long-term Dialogue},
-  booktitle = {NAACL},
-  year = {2025},
-  abstract={Open-domain dialogue systems have seen remarkable advancements with the development of large language models (LLMs). Nonetheless, most existing dialogue systems predominantly focus on brief single-session interactions, neglecting the real-world demands for long-term companionship and personalized interactions with chatbots. Crucial to addressing this real-world need are event summary and persona management, which enable reasoning for appropriate long-term dialogue responses. Recent progress in the human-like cognitive and reasoning capabilities of LLMs suggests that LLM-based agents could significantly enhance automated perception, decision-making, and problem-solving. In response to this potential, we introduce a model-agnostic framework, the Long-term Dialogue Agent (LD-Agent), which incorporates three independently tunable modules dedicated to event perception, persona extraction, and response generation. For the event memory module, long and short-term memory banks are employed to separately focus on historical and ongoing sessions, while a topic-based retrieval mechanism is introduced to enhance the accuracy of memory retrieval. Furthermore, the persona module conducts dynamic persona modeling for both users and agents. The integration of retrieved memories and extracted personas is subsequently fed into the generator to induce appropriate responses. The effectiveness, generality, and cross-domain capabilities of LD-Agent are empirically demonstrated across various illustrative benchmarks, models, and tasks. The code is released at https://github.com/leolee99/LD-Agent.},
-  code={https://github.com/leolee99/LD-Agent},
-  pdf={https://arxiv.org/pdf/2406.05925v1},
-  bibtex_show={true},
-  selected={true},
-}
-
-@inproceedings{NPC,
-  abbr={AAAI},
-  author = {Xu Zhang* and
-            Hao Li* and
-            Mang Ye},
-  title = {Negative Pre-aware for Noisy Cross-modal Matching},
-  booktitle = {AAAI},
-  year = {2024},
-  abstract = {Cross-modal noise-robust learning is a challenging task since noisy correspondence is hard to recognize and rectify. Due to the cumulative and unavoidable negative impact of unresolved noise, existing methods cannot maintain a stable performance when the noise increases. In this paper, we present a novel Negative Pre-aware Cross-modal (NPC) matching solution for large visual-language model fine-tuning on noisy downstream tasks. It is featured in two aspects: (1) For noise recognition and resistance, previous methods usually directly filter out a noise subset, we propose to estimate the negative impact of each sample. It does not need additional correction mechanisms that may predict unreliable correction results, leading to self-reinforcing error. We assign a confidence weight to each sample according to its negative impact in the training process. This adaptively adjusts the contribution of each sample to avoid noisy accumulation. (2) For maintaining stable performance with increasing noise, we utilize the memorization effect of DNNs by maintaining a memory bank. Specifically, we apply GMM to select high-confident clean samples as the memory entry, where the memory entry is used to estimate the negative impact of each sample. Since clean samples are easier distinguished by GMM with increasing noise, the memory bank can still maintain high quality at a high noise ratio. Compared to the correction mechanism focusing on noise samples, memory bank-based estimation is more robust, which makes the model performance stable on noisy datasets. Extensive experiments demonstrate that our method significantly improves matching accuracy and performance stability at increasing noise ratio. Our approach also surpasses the state-of-the-art methods by a large margin.},
-  code={https://github.com/ZhangXu0963/NPC},
-  pdf={https://arxiv.org/pdf/2312.05777.pdf},
-  bibtex_show={true},
-  selected={true},
-}
-
-@inproceedings{PIGuard,
-  abbr={ACL},
-  author = {Hao Li* and
-            Xiaogeng Liu* and
-            Ning Zhang and
-            Chaowei Xiao},
-  title = {PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free},
-  booktitle = {ACL},
-  year = {2025},
-  abstract={Prompt injection attacks pose a critical threat to large language models (LLMs), enabling goal hijacking and data leakage. Prompt guard models, though effective in defense, suffer from over-defense -- falsely flagging benign inputs as malicious due to trigger word bias. To address this issue, we introduce NotInject, an evaluation dataset that systematically measures over-defense across various prompt guard models. NotInject contains 339 benign samples enriched with trigger words common in prompt injection attacks, enabling fine-grained evaluation. Our results show that state-of-the-art models suffer from over-defense issues, with accuracy dropping close to random guessing levels (60%). To mitigate this, we propose InjecGuard, a novel prompt guard model that incorporates a new training strategy, Mitigating Over-defense for Free (MOF), which significantly reduces the bias on trigger words. InjecGuard demonstrates state-of-the-art performance on diverse benchmarks including NotInject, surpassing the existing best model by 30.8%, offering a robust and open-source solution for detecting prompt injection attacks.},
-  code={https://github.com/leolee99/PIGuard},
-  pdf={https://aclanthology.org/2025.acl-long.1468.pdf},
-  html={https://injecguard.github.io/},
-  bibtex_show={true},
-  selected={true},
-}
 
 @inproceedings{OSA,
   abbr={Preprint},
