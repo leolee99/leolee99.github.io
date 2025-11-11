@@ -3,5 +3,7 @@ layout: default
 ---
 
 {% if page.cv_pdf %}
-  <meta http-equiv="refresh" content="0; url={{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}">
+  <script>
+    window.location.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
+  </script>
 {% endif %}
