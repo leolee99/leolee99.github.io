@@ -1,6 +1,21 @@
 ---
 ---
 
+@inproceedings{CrossGuard,
+  abbr={Preprint},
+  author = {Xu Zhang and
+            Hao Li and
+            Zhichao Lu},
+  title = {CrossGuard: Safeguarding MLLMs against Joint-Modal Implicit Malicious Attacks},
+  booktitle = {arXiv},
+  year = {2025},
+  abstract={Multimodal Large Language Models (MLLMs) achieve strong reasoning and perception capabilities but are increasingly vulnerable to jailbreak attacks. While existing work focuses on explicit attacks, where malicious content resides in a single modality, recent studies reveal implicit attacks, in which benign text and image inputs jointly express unsafe intent. Such joint-modal threats are difficult to detect and remain underexplored, largely due to the scarcity of high-quality implicit data. We propose ImpForge, an automated red-teaming pipeline that leverages reinforcement learning with tailored reward modules to generate diverse implicit samples across 14 domains. Building on this dataset, we further develop CrossGuard, an intent-aware safeguard providing robust and comprehensive defense against both explicit and implicit threats. Extensive experiments across safe and unsafe benchmarks, implicit and explicit attacks, and multiple out-of-domain settings demonstrate that CrossGuard significantly outperforms existing defenses, including advanced MLLMs and guardrails, achieving stronger security while maintaining high utility. This offers a balanced and practical solution for enhancing MLLM robustness against real-world multimodal threats.},
+  code={https://github.com/ZhangXu0963/CrossGuard},
+  pdf={https://arxiv.org/pdf/2510.17687},
+  bibtex_show={true},
+}
+
+
 @inproceedings{DRIFT,
   abbr={NeurIPS},
   author = {Hao Li and
