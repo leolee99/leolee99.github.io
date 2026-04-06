@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four papers were accepted to ACL 2026 Main. Appreciate and congratulate all collaborators! :sparkles: :smile:
+Four papers were accepted to **ACL 2026 Main**. Appreciate and congratulate all collaborators! :sparkles: :smile:
