@@ -1,14 +1,38 @@
 ---
 ---
 
+@inproceedings{RCS,
+  abbr={ACL},
+  author = {Peichun Hua and Hao Li and Shanghao Shi and Zhiyuan Yu and Ning Zhang},
+  title = {Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring},
+  booktitle = {ACL},
+  year = {2026},
+  abstract={Large Vision-Language Models (LVLMs) are vulnerable to a growing array of multimodal jailbreak attacks, necessitating defenses that are both generalizable to novel threats and efficient for practical deployment. Many current strategies fall short, either targeting specific attack patterns, which limits generalization, or imposing high computational overhead. While lightweight anomaly-detection methods offer a promising direction, we find that their common one-class design tends to confuse novel benign inputs with malicious ones, leading to unreliable over-rejection. To address this, we propose Representational Contrastive Scoring (RCS), a framework built on a key insight: the most potent safety signals reside within the LVLM’s own internal representations. Our approach inspects the internal geometry of these representations, learning a lightweight projection to maximally separate benign and malicious inputs in safety-critical layers. This enables a simple yet powerful contrastive score that differentiates true malicious intent from mere novelty. Our instantiations, MCD (Mahalanobis Contrastive Detection) and KCD (K-nearest Contrastive Detection), achieve state-of-the-art performance on a challenging evaluation protocol designed to test generalization to unseen attack types. This work demonstrates that effective jailbreak detection can be achieved by applying simple, interpretable statistical methods to the appropriate internal representations, offering a practical path towards safer LVLM deployment. Our code is available on Github.},
+  code={https://github.com/sarendis56/Jailbreak_Detection_RCS},
+  pdf={https://arxiv.org/pdf/2512.12069},
+  bibtex_show={true},
+}
+
+@inproceedings{MEval,
+  abbr={ACL},
+  author = {Li Li and Chenxiao Yu and Zhiyu Ni and Hao Li and Charith Peris and Chaowei Xiao and Yue Zhao},
+  title = {Defenses Against Prompt Attacks Learn Surface Heuristics},
+  booktitle = {ACL},
+  year = {2026},
+  abstract={Large language models (LLMs) are increasingly deployed in security-sensitive applications, where they must follow system- or developer-specified instructions that define the intended task behavior, while completing benign user requests. When adversarial instructions appear in user queries or externally retrieved content, models may override intended logic. Recent defenses rely on supervised finetuning with benign and malicious labels. Although these methods achieve high attack rejection rates, we find that they rely on narrow correlations in defense data rather than harmful intent, leading to systematic rejection of safe inputs. We analyze three recurring shortcut behaviors induced by defense fine-tuning. Position bias arises when benign content placed later in a prompt is rejected at much higher rates; across reasoning benchmarks, suffix-task rejection rises from below 10% to as high as 90%. Token trigger bias occurs when strings common in attack data raise rejection probability even in benign contexts; inserting a single trigger token increases false refusals by up to 50%. Topic generalization bias reflects poor generalization beyond the defense data distribution, with defended models suffering test-time accuracy drops of up to 40%. These findings suggest that current prompt-injection defenses frequently respond to attack-like surface patterns rather than the underlying intent. We introduce controlled diagnostic datasets and a systematic evaluation across two base models and multiple defense pipelines, highlighting limitations of supervised fine-tuning for reliable LLM security.},
+  code={https://github.com/AiChiMoCha/MEval/tree/main},
+  pdf={https://arxiv.org/pdf/2601.07185},
+  bibtex_show={true},
+}
+
 @inproceedings{CrossGuard,
-  abbr={Preprint},
+  abbr={ACL},
   author = {Xu Zhang and
             Hao Li and
             Zhichao Lu},
   title = {CrossGuard: Safeguarding MLLMs against Joint-Modal Implicit Malicious Attacks},
-  booktitle = {arXiv},
-  year = {2025},
+  booktitle = {ACL},
+  year = {2026},
   abstract={Multimodal Large Language Models (MLLMs) achieve strong reasoning and perception capabilities but are increasingly vulnerable to jailbreak attacks. While existing work focuses on explicit attacks, where malicious content resides in a single modality, recent studies reveal implicit attacks, in which benign text and image inputs jointly express unsafe intent. Such joint-modal threats are difficult to detect and remain underexplored, largely due to the scarcity of high-quality implicit data. We propose ImpForge, an automated red-teaming pipeline that leverages reinforcement learning with tailored reward modules to generate diverse implicit samples across 14 domains. Building on this dataset, we further develop CrossGuard, an intent-aware safeguard providing robust and comprehensive defense against both explicit and implicit threats. Extensive experiments across safe and unsafe benchmarks, implicit and explicit attacks, and multiple out-of-domain settings demonstrate that CrossGuard significantly outperforms existing defenses, including advanced MLLMs and guardrails, achieving stronger security while maintaining high utility. This offers a balanced and practical solution for enhancing MLLM robustness against real-world multimodal threats.},
   code={https://github.com/ZhangXu0963/CrossGuard},
   pdf={https://arxiv.org/pdf/2510.17687},
@@ -70,6 +94,24 @@
 }
 
 
+@inproceedings{OSA,
+  abbr={ACL},
+  author= {Hao Li* and
+               Jiayang Gu* and
+               Jingkuan Song and
+               An Zhang and
+               Lianli Gao},
+  title = {Debiased Orthogonal Boundary-Driven Efficient Noise Mitigation},
+  booktitle={ACL},
+  year = {2026},
+  abstract={Mitigating the detrimental effects of noisy labels on the training process has become increasingly critical, as obtaining entirely clean or human-annotated samples for large-scale pretraining tasks is often impractical. Nonetheless, existing noise mitigation methods often encounter limitations in practical applications due to their task-specific design, model dependency, and significant computational overhead. In this work, we exploit the properties of high-dimensional orthogonality to identify a robust and effective boundary in cone space for separating clean and noisy samples. Building on this, we propose One-Step Antinoise (OSA), a model-agnostic noisy label mitigation paradigm that employs an estimator model and a scoring function to assess the noise level of input pairs through just one-step inference. We empirically validate the superiority of OSA, demonstrating its enhanced training robustness, improved task transferability, streamlined deployment, and reduced computational overhead across diverse benchmarks, models, and tasks. Our code is released athttps://github.com/leolee99/OSA.},
+  code={https://github.com/leolee99/OSA},
+  pdf={https://arxiv.org/pdf/2410.01944},
+  bibtex_show={true},
+  selected={true},
+}
+
+
 @inproceedings{NPC,
   abbr={AAAI},
   author = {Xu Zhang* and
@@ -121,25 +163,6 @@
   supp={https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Supplemental-Conference.pdf},
   html={https://proceedings.neurips.cc/paper_files/paper/2022/hash/4e786a87e7ae249de2b1aeaf5d8fde82-Abstract-Conference.html},
   pdf={https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf},
-  bibtex_show={true},
-  selected={true},
-}
-
-
-@inproceedings{OSA,
-  abbr={Preprint},
-  author= {Hao Li* and
-               Jiayang Gu* and
-               Jingkuan Song and
-               An Zhang and
-               Lianli Gao},
-  title = {One-step Noisy Label Mitigation},
-  eprint={2410.01944},
-  archivePrefix={arXiv},
-  year = {2024},
-  abstract={Mitigating the detrimental effects of noisy labels on the training process has become increasingly critical, as obtaining entirely clean or human-annotated samples for large-scale pre-training tasks is often impractical. Nonetheless, existing noise mitigation methods often encounter limitations in practical applications due to their task-specific design, model dependency, and significant computational overhead. In this work, we exploit the properties of high-dimensional orthogonality to identify a robust and effective boundary in cone space for separating clean and noisy samples. Building on this, we propose One-step Anti-Noise (OSA), a model-agnostic noisy label mitigation paradigm that employs an estimator model and a scoring function to assess the noise level of input pairs through just one-step inference, a costefficient process. We empirically demonstrate the superiority of OSA, highlighting its enhanced training robustness, improved task transferability, ease of deployment, and reduced computational costs across various benchmarks, models, and tasks. Our code is released at https://github.com/leolee99/OSA.},
-  code={https://github.com/leolee99/OSA},
-  pdf={https://arxiv.org/pdf/2410.01944},
   bibtex_show={true},
   selected={true},
 }

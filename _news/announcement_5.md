@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by **NAACL 2025**.  :sparkles: :smile:
+One paper was accepted by **NAACL 2025 Main**.  :sparkles: :smile:
